@@ -1,0 +1,4 @@
+flickrApi:
+  apiKey: "b09fb8d8f7679bc3c876a5de2cb3f35c"
+api:
+  host: "192.168.99.100"
